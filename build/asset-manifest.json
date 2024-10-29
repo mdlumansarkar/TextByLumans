@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TextByLuman/static/css/main.c76de836.css",
+    "main.js": "/TextByLuman/static/js/main.351c4e43.js",
+    "index.html": "/TextByLuman/index.html",
+    "main.c76de836.css.map": "/TextByLuman/static/css/main.c76de836.css.map",
+    "main.351c4e43.js.map": "/TextByLuman/static/js/main.351c4e43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c76de836.css",
+    "static/js/main.351c4e43.js"
+  ]
+}
